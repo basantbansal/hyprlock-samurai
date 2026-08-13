@@ -23,8 +23,9 @@
 
 <!-- Add your screenshot here -->
 <!-- ![preview](./preview.png) -->
+<img width="1920" height="1080" alt="Screenshot_14-Aug_00-19-48_28053" src="https://github.com/user-attachments/assets/5a5babd2-6519-4e22-9027-2efe71e358f1" />
+<img width="1920" height="1080" alt="Screenshot_14-Aug_00-19-11_23721" src="https://github.com/user-attachments/assets/ed2c49f0-d239-4a1c-a463-544709e8ce37" />
 
-> **TODO:** Add a screenshot of the lock screen. Take a screenshot with `grim` or `hyprshot` while hyprlock is active.
 
 ---
 
