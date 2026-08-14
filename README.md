@@ -103,7 +103,7 @@ hyprlock
 Replace `~/Pictures/wallhaven-1qrwv9.png` with your own image and update the path in `hyprlock.conf`:
 
 ```ini
-image {
+background {
     path = /your/path/to/wallpaper.png
 }
 ```
