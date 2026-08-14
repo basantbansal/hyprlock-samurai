@@ -31,7 +31,7 @@
 
 ## ✨ Features
 
-- **Kanji password dots** — each keypress renders a random Japanese kanji character (`力火影斬剣空龍闇神心道武魂夢月天風雷`) instead of boring circles
+- **Kanji password dots** — each keypress renders a specific Japanese kanji character (`斬`) instead of boring circles
 - **Dark samurai wallpaper** — katana with engraved kanji on a deep green/black background
 - **Large clock overlay** — clean time display with muted green tones
 - **Japanese date format** — date rendered as `2024年08月14日`
@@ -113,7 +113,7 @@ image {
 Edit the `dots_text_format` in `hyprlock.conf`:
 
 ```ini
-dots_text_format = [力火影斬剣空龍闇神心道武魂夢月天風雷]
+dots_text_format = 斬
 ```
 
 Replace with any Unicode characters you like — try katakana, runes, or emoji.
