@@ -23,7 +23,7 @@
 
 <!-- Add your screenshot here -->
 <!-- ![preview](./preview.png) -->
-<img width="1920" height="1080" alt="Screenshot_14-Aug_00-19-48_28053" src="https://github.com/user-attachments/assets/5a5babd2-6519-4e22-9027-2efe71e358f1" />
+<img width="1920" height="1080" alt="Screenshot_14-Aug_21-11-11_12118" src="https://github.com/user-attachments/assets/5a7ce491-744d-4aa5-bacf-e62323c7659e" />
 <img width="1920" height="1080" alt="Screenshot_14-Aug_00-19-11_23721" src="https://github.com/user-attachments/assets/ed2c49f0-d239-4a1c-a463-544709e8ce37" />
 
 
